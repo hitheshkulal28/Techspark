@@ -45,7 +45,7 @@ export default function Dashboard() {
             <span className="text-brand-600">Retail</span> Intelligence
           </div>
           <p className="mt-2 text-slate-600">
-            AI-powered demand forecasting and dynamic pricing for Nordic retailers
+            AI-powered forecasting and dynamic pricing for Nordic retailers
           </p>
         </div>
         <Link to="/import" className="hidden md:inline-flex items-center gap-2 rounded-xl bg-linear-to-r from-brand-600 to-indigo-600 text-white px-5 py-3 shadow-md">

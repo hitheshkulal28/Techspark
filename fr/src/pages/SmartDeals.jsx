@@ -4,12 +4,12 @@ const deals = [
   {
     rank: 1, category: "Beverages", brand: "Nordic Roast", name: "Premium Coffee Beans 500g",
     desc: "Fair trade Arabica beans, medium roast", rating: 4.7, stock: 95, price: "71.20", oldPrice: "89.00",
-    currency: "EUR", region: "Finland", channel: "Both", discount: "-20%", score: 68.9, image: null
+    currency: "EUR", region: "Finland", channel: "Both", discount: "-20%", score: 68.9, image: "https://typescoffee.com/wp-content/uploads/2023/03/premium-coffee-beans.jpg"
   },
   {
     rank: 2, category: "Meat & Fish", brand: "Ocean Nordic", name: "Fresh Salmon Fillet",
     desc: "Wild-caught Norwegian salmon, premium quality", rating: 4.8, stock: 80, price: "160.65", oldPrice: "189.00",
-    currency: "NOK", region: "Norway", channel: "Both", discount: "-15%", score: 66.2, image: null
+    currency: "NOK", region: "Norway", channel: "Both", discount: "-15%", score: 66.2, image: "https://www.marionmizzi.com/wp-content/uploads/2019/11/wild-alaskan-salmon.jpg"
   },
   {
     rank: 3, category: "Fresh Produce", brand: "Nordic Fresh", name: "Organic Apples 1kg",
@@ -21,17 +21,17 @@ const deals = [
   {
     rank: 4, category: "Bakery", brand: "Baker's Choice", name: "Sourdough Bread",
     desc: "Artisan sourdough bread baked fresh daily", rating: 4.6, stock: 120, price: "45.00",
-    currency: "DKK", region: "Denmark", channel: "In-Store", discount: null, score: 61.9, image: null
+    currency: "DKK", region: "Denmark", channel: "In-Store", discount: null, score: 61.9, image: "https://www.healthbenefitstimes.com/glossary/wp-content/uploads/2020/08/Sourdough-bread.jpg"
   },
   {
     rank: 5, category: "Dairy", brand: "Nordic Dairy", name: "Organic Milk 1L",
     desc: "Fresh organic milk from grass-fed cows", rating: 4.2, stock: 200, price: "30.40", oldPrice: "32.00",
-    currency: "SEK", region: "Sweden", channel: "In-Store", discount: "-5%", score: 61.5, image: null
+    currency: "SEK", region: "Sweden", channel: "In-Store", discount: "-5%", score: 61.5, image: "https://tse3.mm.bing.net/th/id/OIP.RhzN81Yf_N8CH-LYdMM6rwHaE7?cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     rank: 6, category: "Pantry", brand: "Bella Italia", name: "Italian Pasta 500g",
     desc: "Premium durum wheat pasta", rating: 4.3, stock: 300, price: "28.00",
-    currency: "SEK", region: "Sweden", channel: "Online", discount: null, score: 60.4, image: null
+    currency: "SEK", region: "Sweden", channel: "Online", discount: null, score: 60.4, image: "https://img.freepik.com/premium-photo/creamy-fettuccine-alfredo-with-fresh-parsley-parmesan-classic-italian-comfort-food-delight_875755-11136.jpg"
   },
 ];
 
